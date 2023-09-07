@@ -1,0 +1,4 @@
+baseURL = 'https://quanquibble.github.io/'
+languageCode = 'en-us'
+title = 'Quan Quibble'
+theme = 'hugo-theme-stack'
